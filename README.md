@@ -1,0 +1,3 @@
+# BoyerMooreHorspool
+
+Algorítmo BoyerMooreHorspool
